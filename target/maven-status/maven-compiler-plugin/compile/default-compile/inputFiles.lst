@@ -1,0 +1,9 @@
+/Users/erickbaco/IdeaProjects/proyecto_is/src/main/java/mx/unam/aragon/ico/te/proyecto_is/services/iterfaces/VentaService.java
+/Users/erickbaco/IdeaProjects/proyecto_is/src/main/java/mx/unam/aragon/ico/te/proyecto_is/ProyectoIsApplication.java
+/Users/erickbaco/IdeaProjects/proyecto_is/src/main/java/mx/unam/aragon/ico/te/proyecto_is/excepciones/GlobalExceptionHandler.java
+/Users/erickbaco/IdeaProjects/proyecto_is/src/main/java/mx/unam/aragon/ico/te/proyecto_is/repositories/VentaRepository.java
+/Users/erickbaco/IdeaProjects/proyecto_is/src/main/java/mx/unam/aragon/ico/te/proyecto_is/services/VentaServiceImpl.java
+/Users/erickbaco/IdeaProjects/proyecto_is/src/main/java/mx/unam/aragon/ico/te/proyecto_is/dtos/VentaUpdateDto.java
+/Users/erickbaco/IdeaProjects/proyecto_is/src/main/java/mx/unam/aragon/ico/te/proyecto_is/controllers/VentaController.java
+/Users/erickbaco/IdeaProjects/proyecto_is/src/main/java/mx/unam/aragon/ico/te/proyecto_is/entities/Venta.java
+/Users/erickbaco/IdeaProjects/proyecto_is/src/main/java/mx/unam/aragon/ico/te/proyecto_is/mappers/VentaMapper.java

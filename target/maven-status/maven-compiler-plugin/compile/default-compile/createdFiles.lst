@@ -1,0 +1,10 @@
+mx/unam/aragon/ico/te/proyecto_is/services/VentaServiceImpl.class
+mx/unam/aragon/ico/te/proyecto_is/repositories/VentaRepository.class
+mx/unam/aragon/ico/te/proyecto_is/services/iterfaces/VentaService.class
+mx/unam/aragon/ico/te/proyecto_is/dtos/VentaUpdateDto.class
+mx/unam/aragon/ico/te/proyecto_is/ProyectoIsApplication.class
+mx/unam/aragon/ico/te/proyecto_is/mappers/VentaMapper.class
+mx/unam/aragon/ico/te/proyecto_is/mappers/VentaMapperImpl.class
+mx/unam/aragon/ico/te/proyecto_is/controllers/VentaController.class
+mx/unam/aragon/ico/te/proyecto_is/excepciones/GlobalExceptionHandler.class
+mx/unam/aragon/ico/te/proyecto_is/entities/Venta.class
